@@ -5,4 +5,5 @@
  :desc
  "A nice default setup for LightTable, used in the ClojureBridge curriculum.",
  :behaviors "clojurebridge.behaviors",
- :dependencies {:Keymapper "0.0.4", :base16 themes "0.1.0"}}
+ :dependencies {:Keymapper "0.0.4",
+                "base16 themes" "0.1.0"}}
