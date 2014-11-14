@@ -1,0 +1,7 @@
+{:name "HTML Live",
+ :version "0.0.1",
+ :author "Rafe Rosen",
+ :source "https://github.com/existentialmutt/lighttable-html-live",
+ :desc "Live-edit mode for HTML",
+ :behaviors "html_live.behaviors",
+ :dependencies {:HTML "0.0.1"}}

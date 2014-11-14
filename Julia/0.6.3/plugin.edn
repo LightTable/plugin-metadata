@@ -1,0 +1,7 @@
+{:name "Jewel",
+ :author "Mike Innes",
+ :version "0.6.3",
+ :source "https://github.com/one-more-minute/Jewel",
+ :desc "Julia Language Plugin",
+ :dependencies {},
+ :behaviors "jewel.behaviors"}

@@ -1,0 +1,6 @@
+{:name "MightTable",
+ :version "0.0.4",
+ :author "Rodrigo B. de Oliveira",
+ :source "https://github.com/bamboo/MightTable/",
+ :desc "Metascript language support for LightTable",
+ :behaviors "metascript.behaviors"}

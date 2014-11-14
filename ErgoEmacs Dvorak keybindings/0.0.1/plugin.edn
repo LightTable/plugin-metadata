@@ -1,0 +1,6 @@
+{:name "ErgoEmacs Dvorak keybindings",
+ :author "Nikita Kitaev",
+ :version "0.0.1",
+ :source "https://github.com/nikitakit/LightTable-ErgoEmacs",
+ :desc "ErgoEmacs Dvorak keybindings for Light Table",
+ :behaviors "plugin.behaviors"}

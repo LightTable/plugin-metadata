@@ -1,0 +1,8 @@
+{:name "Word Jumper",
+ :author "Joel Mason",
+ :version "0.0.1",
+ :source "https://github.com/JobJob/Word-Jumper-LT",
+ :desc
+ "Jump to word boundaries of camelCase and underscore separated symbols with customisable keyboard shortcuts",
+ :dependencies {},
+ :behaviors "word-jumper-lt.behaviors"}

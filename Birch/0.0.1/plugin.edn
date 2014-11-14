@@ -1,0 +1,7 @@
+{:name "Birch",
+ :version "0.0.1",
+ :author "Eric Pritchett",
+ :source "https://github.com/mortalapeman/birch-lt",
+ :desc
+ "A eval/watch/variable/object/data visualzation tool for inspecting hierarchical data in Light Table.",
+ :behaviors "birch.behaviors"}

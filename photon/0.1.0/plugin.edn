@@ -1,0 +1,6 @@
+{:name "photon",
+ :version "0.1.0",
+ :author "Gabriel Horner",
+ :source "https://github.com/cldwalker/photon",
+ :desc "Quickly open your most active projects",
+ :behaviors "photon.behaviors"}

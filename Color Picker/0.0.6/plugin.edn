@@ -1,0 +1,7 @@
+{:name "Color Picker",
+ :version "0.0.6",
+ :author "Morgawr <morgawr@gmail.com>",
+ :source "https://github.com/Morgawr/lt-color-picker",
+ :desc "Open a menu to pick colors and write them in the editor.",
+ :dependencies {},
+ :behaviors "color_picker.behaviors"}

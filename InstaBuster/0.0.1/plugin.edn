@@ -1,0 +1,6 @@
+{:name "InstaBuster",
+ :version "0.0.1",
+ :author "Magnus Rundberget",
+ :source "https://github.com/busterjs/lt-instabuster",
+ :desc "Ease your JavaScript testing with Buster.JS",
+ :behaviors "instabuster.behaviors"}

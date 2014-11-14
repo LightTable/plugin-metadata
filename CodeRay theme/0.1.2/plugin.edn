@@ -1,0 +1,7 @@
+{:name "CodeRay theme",
+ :version "0.1.2",
+ :author "Xavi Caballé",
+ :source "https://github.com/xavi/coderay-lighttable-theme",
+ :desc
+ "Light theme based on CodeRay's default Alpha theme. After installing it, restart Light Table, then add (:lt.objs.style/set-theme \"coderay\") to user.behaviors under :editor",
+ :behaviors "coderay_theme.behaviors"}

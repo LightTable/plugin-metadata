@@ -1,0 +1,6 @@
+{:name "Markdown",
+ :version "0.0.1",
+ :author "MarcoPolo",
+ :source "https://github.com/MarcoPolo/lt-markdown",
+ :desc "Watches an editor containing a markdown file, and renders it.",
+ :behaviors "lt_markdown.behaviors"}

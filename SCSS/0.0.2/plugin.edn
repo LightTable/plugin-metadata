@@ -1,0 +1,7 @@
+{:name "SCSS",
+ :author "Philip Joseph",
+ :version "0.0.2",
+ :source "https://github.com/lambdahands/lt-scss",
+ :desc "A SCSS plugin for Light Table",
+ :dependencies {},
+ :behaviors "scss.behaviors"}

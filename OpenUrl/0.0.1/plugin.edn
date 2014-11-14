@@ -1,0 +1,6 @@
+{:name "OpenUrl",
+ :version "0.0.1",
+ :author "Love Sharma <contact@lovesharma.com>",
+ :source "https://github.com/zonito/openurl",
+ :desc "Open selected url in browser.",
+ :behaviors "openurl.behaviors"}

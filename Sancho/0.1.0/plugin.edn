@@ -1,0 +1,8 @@
+{:name "Sancho",
+ :version "0.1.0",
+ :author "Gabriel Horner",
+ :source "http://github.com/cldwalker/Sancho",
+ :desc
+ "Your trusty Clojure sidekick. Improves the Clojure experience with features such as crossclj usage and grimoire examples integration.",
+ :dependencies {:Clojure "0.0.13"},
+ :behaviors "sancho.behaviors"}

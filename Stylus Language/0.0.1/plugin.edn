@@ -1,0 +1,7 @@
+{:name "Stylus Language",
+ :author "Joshua M. Cole",
+ :version "0.0.1",
+ :source "https://github.com/joshuafcole/Stylus",
+ :desc "Stylus language plugin for Light Table",
+ :dependencies {},
+ :behaviors "stylus.behaviors"}

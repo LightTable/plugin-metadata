@@ -1,0 +1,6 @@
+{:name "Opener",
+ :version "0.0.1",
+ :author "Eldar Gabdullin",
+ :source "https://github.com/eldargab/LT-Opener",
+ :desc "Helps to open dirs, files and start a Terminal",
+ :behaviors "opener.behaviors"}

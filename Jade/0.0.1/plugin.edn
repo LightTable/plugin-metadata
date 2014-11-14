@@ -1,0 +1,7 @@
+{:name "Jade",
+ :author "Hashobject",
+ :version "0.0.1",
+ :source "https://github.com/hashobject/lt-jade",
+ :desc "Jade language plugin for Light Table",
+ :dependencies {},
+ :behaviors "jade.behaviors"}

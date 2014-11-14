@@ -1,0 +1,6 @@
+{:name "ToggleLog",
+ :version "0.0.1",
+ :author "mharris717",
+ :source "https://github.com/mharris717/lt_toggle_log",
+ :desc "Gives a live ToggleLog in a second tab",
+ :behaviors "lt_toggle_log.behaviors"}

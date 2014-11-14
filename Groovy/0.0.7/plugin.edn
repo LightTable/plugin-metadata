@@ -1,0 +1,6 @@
+{:name "Groovy",
+ :author "Magnus Rundberget",
+ :version "0.0.7",
+ :source "https://github.com/rundis/LightTable-Groovy",
+ :desc "Groovy plugin for Light Table",
+ :behaviors "groovy.behaviors"}

@@ -1,0 +1,8 @@
+{:name "Vim-Sleek",
+ :author "xkxx",
+ :version "0.0.1",
+ :source "https://github.com/xkxx/CodeMirror-VimSleek",
+ :desc
+ "Drop-in replacement for vanilla Vim mode, adds vim-seek among other features",
+ :dependencies {},
+ :behaviors "vim.behaviors"}

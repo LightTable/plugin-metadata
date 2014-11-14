@@ -1,0 +1,6 @@
+{:name "Syntax Status Bar",
+ :author "Zachary Kim",
+ :version "0.9.0",
+ :source "https://github.com/zk/lt-syntaxstatusbar",
+ :desc "Display the current editor's syntax setting in the statubar.",
+ :behaviors "syntaxstatusbar.behaviors"}

@@ -1,0 +1,7 @@
+{:name "Lorem",
+ :author "shillingp",
+ :version "0.1.8",
+ :source "https://github.com/shillingp/LightTable-lorem",
+ :desc
+ "A Clojure Lorem Ipsum text generator plugin for LightTable IDE",
+ :behaviors "lorem.behaviors"}

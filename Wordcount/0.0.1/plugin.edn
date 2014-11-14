@@ -1,0 +1,6 @@
+{:name "Wordcount",
+ :version "0.0.1",
+ :author "mharris717",
+ :source "https://github.com/mharris717/lt-wordcount",
+ :desc "Gives a live Wordcount in a second tab",
+ :behaviors "lt_wordcount.behaviors"}

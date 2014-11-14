@@ -1,0 +1,7 @@
+{:name "LiTeX",
+ :author "Robert Schroll",
+ :version "0.0.1",
+ :source "https://github.com/rschroll/litex",
+ :desc "(La)TeX compilation for Light Table",
+ :dependencies {},
+ :behaviors "litex.behaviors"}

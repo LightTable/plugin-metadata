@@ -1,0 +1,6 @@
+{:name "Bufferize",
+ :version "0.0.3",
+ :author "Frozenlock",
+ :source "https://github.com/Frozenlock/Bufferize",
+ :desc "Easier emacs-like buffer (tabs) navigation.",
+ :behaviors "bufferize.behaviors"}

@@ -1,0 +1,6 @@
+{:name "Relative Line Numbers",
+ :version "0.1.0",
+ :author "Dave Coates",
+ :source "https://github.com/davecoates/lt-relativelinenumbers",
+ :desc "Display relative line numbers similar to VIM",
+ :behaviors "relativelinenumbers.behaviors"}

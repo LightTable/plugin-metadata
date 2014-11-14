@@ -1,0 +1,6 @@
+{:name "Textile",
+ :version "0.0.1",
+ :author "Sean Corfield (based on MarcoPolo's Markdown)",
+ :source "https://github.com/seancorfield/lt-textile",
+ :desc "Watches an editor containing a textile file, and renders it.",
+ :behaviors "lt_textile.behaviors"}

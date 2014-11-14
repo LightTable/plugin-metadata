@@ -1,0 +1,7 @@
+{:name "Wisp",
+ :version "0.0.1",
+ :author "Irakli Gozalishvili",
+ :source "https://github.com/Gozala/lt.plugins.wisp",
+ :desc "Wisp language support for Light Table",
+ :behaviors "wisp.behaviors",
+ :dependencies {:Clojure "0.0.10"}}

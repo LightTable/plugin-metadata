@@ -1,0 +1,7 @@
+{:name "CoffeeScript",
+ :author "Dave Coates",
+ :version "0.0.3",
+ :source "https://github.com/davecoates/lt-coffeescript",
+ :desc "A CoffeeScript plugin for Light Table",
+ :dependencies {},
+ :behaviors "coffeescript.behaviors"}

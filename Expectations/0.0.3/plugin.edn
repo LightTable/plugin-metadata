@@ -1,0 +1,6 @@
+{:name "Expectations",
+ :version "0.0.3",
+ :author "Brendan Bates",
+ :source "https://github.com/bbbates/lt-expectations",
+ :desc "Expectations (the test library) integration",
+ :behaviors "lt_expectations.behaviors"}

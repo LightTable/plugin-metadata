@@ -1,0 +1,7 @@
+{:name "Emacs",
+ :author "Kodowa",
+ :version "0.0.4",
+ :source "https://github.com/LightTable/Emacs",
+ :desc "Emacs keybindings for Light Table",
+ :dependencies {},
+ :behaviors "emacs.behaviors"}

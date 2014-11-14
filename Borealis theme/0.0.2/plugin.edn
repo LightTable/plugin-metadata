@@ -1,0 +1,7 @@
+{:name "Borealis theme",
+ :version "0.0.2",
+ :author "James Trunk, Kristoffer Skjutare",
+ :source "https://github.com/Misophistful/borealis-lighttable-theme",
+ :desc
+ "A theme with a dark background and rainbow brackets. Install, then restart LT, then edit user.behaviors and change to (:lt.objs.style/set-theme \"borealis\") under :editor",
+ :behaviors "borealis_lighttable_theme.behaviors"}

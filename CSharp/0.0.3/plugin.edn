@@ -1,0 +1,7 @@
+{:name "CSharp",
+ :author "Jason",
+ :version "0.0.3",
+ :source "https://github.com/wilsonjm/LightTable/CSharp",
+ :desc "Csharp plugin for Light Table",
+ :dependancies {},
+ :behaviors "csharp.behaviors"}

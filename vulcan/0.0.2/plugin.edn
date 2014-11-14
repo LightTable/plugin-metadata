@@ -1,0 +1,7 @@
+{:name "vulcan",
+ :version "0.0.2",
+ :author "Irakli Gozalishvili",
+ :source "https://github.com/Gozala/lt.plugins.vulcan",
+ :desc "Firefox debugger client for Light Table",
+ :behaviors "vulcan.behaviors",
+ :dependencies {:Javascript "0.0.1"}}

@@ -1,0 +1,7 @@
+{:name "Stylus",
+ :author "Hashobject",
+ :version "0.0.1",
+ :source "https://github.com/hashobject/lt-stylus",
+ :desc "Stylus language plugin for Light Table",
+ :dependencies {},
+ :behaviors "stylus.behaviors"}

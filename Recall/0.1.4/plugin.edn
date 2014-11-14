@@ -1,0 +1,6 @@
+{:name "Recall",
+ :author "Joshua Cole",
+ :version "0.1.4",
+ :source "https://github.com/joshuafcole/recall",
+ :desc "Workspace persistence plugin for Light Table.",
+ :behaviors "recall.behaviors"}

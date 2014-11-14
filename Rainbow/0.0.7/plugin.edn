@@ -1,0 +1,7 @@
+{:name "Rainbow",
+ :author "Kodowa",
+ :version "0.0.7",
+ :source "https://github.com/LightTable/Rainbow",
+ :desc "Rainbow parens implementation for Light Table",
+ :dependencies {},
+ :behaviors "rainbow.behaviors"}

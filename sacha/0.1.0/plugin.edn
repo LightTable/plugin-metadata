@@ -1,0 +1,7 @@
+{:name "sacha",
+ :version "0.1.0",
+ :author "Gabriel Horner",
+ :source "https://github.com/cldwalker/sacha",
+ :desc
+ "An outliner with a full set of commands to create and edit outlines.",
+ :behaviors "sacha.behaviors"}

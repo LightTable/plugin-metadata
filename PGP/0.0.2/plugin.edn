@@ -1,0 +1,6 @@
+{:name "PGP",
+ :version "0.0.2",
+ :author "MarcoPolo",
+ :source "https://github.com/marcopolo/lt-pgp",
+ :desc "Edit encrypted files inside of Light Table",
+ :behaviors "lt_pgp.behaviors"}

@@ -1,0 +1,7 @@
+{:name "Refheap",
+ :version "0.0.3",
+ :author "Mihnea DB",
+ :source "https://github.com/mihneadb/lighttable_refheap",
+ :desc
+ "Refheap plugin - posts selection or the whole file if nothing is selected",
+ :behaviors "refheap.behaviors"}

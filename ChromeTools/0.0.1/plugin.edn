@@ -1,0 +1,7 @@
+{:name "ChromeTools",
+ :version "0.0.1",
+ :author "Dave Coates",
+ :source "https://github.com/davecoates/lt-chrometools",
+ :desc
+ "Use Chrome for live code eval & debugging from within LightTable",
+ :behaviors "ChromeTools.behaviors"}

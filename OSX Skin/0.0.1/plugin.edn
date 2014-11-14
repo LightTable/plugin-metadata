@@ -1,0 +1,6 @@
+{:name "OSX Skin",
+ :version "0.0.1",
+ :author "Irakli Gozalishvili",
+ :source "https://github.com/gozala/LightTable-osx-skin",
+ :desc "OSX native look and feel for LightTable",
+ :behaviors "osx-skin.behaviors"}

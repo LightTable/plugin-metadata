@@ -1,0 +1,7 @@
+{:name "workspace_nav",
+ :version "0.0.1",
+ :author "Beau Fabry",
+ :source "https://github.com/bfabry/workspace-nav",
+ :desc
+ "Give the workspace side-panel the ability to have focus and navigate via keyboard.",
+ :behaviors "workspace_nav.behaviors"}

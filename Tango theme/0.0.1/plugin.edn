@@ -1,0 +1,6 @@
+{:name "Tango theme",
+ :version "0.0.1",
+ :author "Alexander Solovyov",
+ :source "https://github.com/piranha/lighttable-tango-theme",
+ :desc "Emacs' Tango theme with white background",
+ :behaviors "tango.behaviors"}

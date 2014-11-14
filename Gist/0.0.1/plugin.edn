@@ -1,0 +1,6 @@
+{:name "Gist",
+ :author "Sreeharsha Mudivarti",
+ :version "0.0.1",
+ :source "https://github.com/sreeharsha-m/lt-gist",
+ :desc "Gist the current tab",
+ :behaviors "gist.behaviors"}

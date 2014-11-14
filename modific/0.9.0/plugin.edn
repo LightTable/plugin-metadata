@@ -1,0 +1,7 @@
+{:name "modific",
+ :version "0.9.0",
+ :author "Aleksandr Gornostal",
+ :source "https://github.com/gornostal/Modific-LightTable",
+ :desc "Plugin that highlights lines changed since the last commit",
+ :keymap "modific.keymap",
+ :behaviors "modific.behaviors"}

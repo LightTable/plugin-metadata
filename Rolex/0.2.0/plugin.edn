@@ -1,0 +1,7 @@
+{:name "Rolex",
+ :version "0.2.0",
+ :author "Eric Pritchett",
+ :source "https://github.com/mortalapeman/rolex-lt",
+ :desc
+ "Fancy custom watches for Light Table. Includes a watch for observing a value over time!",
+ :behaviors "rolex.behaviors"}

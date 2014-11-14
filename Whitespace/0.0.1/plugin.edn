@@ -1,0 +1,7 @@
+{:name "Whitespace",
+ :author "Kodowa",
+ :version "0.0.1",
+ :source "https://github.com/LightTable/Whitespace",
+ :desc "Visible whitespace for Light Table",
+ :dependencies {},
+ :behaviors "whitespace.behaviors"}

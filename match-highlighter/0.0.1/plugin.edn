@@ -1,0 +1,6 @@
+{:name "match-highlighter",
+ :author "Irakli Gozalishvili",
+ :version "0.0.1",
+ :source "https://github.com/Gozala/lt.plugins.match-highlighter",
+ :desc "Light Table plugin for highlighting matcking tokens",
+ :behaviors "match-highlighter.behaviors"}

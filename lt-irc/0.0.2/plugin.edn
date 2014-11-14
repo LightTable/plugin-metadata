@@ -1,0 +1,6 @@
+{:name "lt-irc",
+ :version "0.0.2",
+ :author "Trevor S. Kaufman",
+ :source "https://github.com/tskaufma/lt-irc",
+ :desc "Connect to IRC Servers and Channels from inside LightTable",
+ :behaviors "irc.behaviors"}

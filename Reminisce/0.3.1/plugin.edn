@@ -1,0 +1,7 @@
+{:name "Reminisce",
+ :author "Mike Innes",
+ :version "0.3.1",
+ :source "https://github.com/one-more-minute/Reminisce",
+ :desc "Sublime style saving of tabs and content",
+ :dependencies {},
+ :behaviors "reminisce.behaviors"}

@@ -1,0 +1,6 @@
+{:name "NoQuestions",
+ :version "0.0.1",
+ :author "Eldar Gabdullin",
+ :source "https://github.com/eldargab/LT-NoQuestions",
+ :desc "Suppress 'Do you want to save..?' dialogs",
+ :behaviors "noquestions.behaviors"}

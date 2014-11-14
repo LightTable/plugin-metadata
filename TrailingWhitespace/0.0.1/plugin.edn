@@ -1,0 +1,6 @@
+{:name "TrailingWhitespace",
+ :author "uochan",
+ :version "0.0.1",
+ :source "https://github.com/liquidz/trailing-whitespace",
+ :desc "Trail whitespace for Light Table",
+ :behaviors "trailingwhitespace.behaviors"}

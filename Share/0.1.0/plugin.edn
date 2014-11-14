@@ -1,0 +1,6 @@
+{:name "Share",
+ :version "0.1.0",
+ :author "Gabriel Horner and Jamie Brandon",
+ :source "https://github.com/cldwalker/Share",
+ :desc "Collaborative editing for Light Table",
+ :behaviors "share.behaviors"}

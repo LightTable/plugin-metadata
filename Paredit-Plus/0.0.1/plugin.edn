@@ -1,0 +1,7 @@
+{:name "Paredit-Plus",
+ :version "0.0.1",
+ :author "Okke Tijhuis (@otijhuis)",
+ :source "https://github.com/otijhuis/paredit-plus.git",
+ :desc
+ "Extra paredit commands (like wrap/split/splice/kill) which aren't supported (yet) in the main Paredit plugin",
+ :behaviors "paredit-plus.behaviors"}

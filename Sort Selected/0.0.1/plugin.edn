@@ -1,0 +1,6 @@
+{:name "Sort Selected",
+ :version "0.0.1",
+ :author "Love Sharma",
+ :source "https://github.com/zonito/Sort-Selected",
+ :desc "Sort selected lines.",
+ :behaviors "sort_selected.behaviors"}

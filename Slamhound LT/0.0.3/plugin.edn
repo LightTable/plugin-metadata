@@ -1,0 +1,7 @@
+{:name "Slamhound LT",
+ :author "chadhq",
+ :version "0.0.3",
+ :source "https://github.com/chadhq/slamhound-lt",
+ :desc
+ "Adds Slamhound goodness to LightTable. Basically, its the IntelliJ 'Optimize Imports' and 'Auto Import'. 0.0.3 now replaces the namespace in the file.",
+ :behaviors "slamhound_lt.behaviors"}

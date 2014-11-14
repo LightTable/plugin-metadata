@@ -1,0 +1,7 @@
+{:name "Keymapper",
+ :author "Joshua Cole",
+ :version "0.0.4",
+ :source "https://github.com/joshuafcole/keymapper",
+ :desc "Find all existing shortcuts in one convenient place.",
+ :dependencies {},
+ :behaviors "keymapper.behaviors"}

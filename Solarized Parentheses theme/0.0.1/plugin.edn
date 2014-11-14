@@ -1,0 +1,8 @@
+{:name "Solarized Parentheses theme",
+ :version "0.0.1",
+ :author "Cayenne",
+ :source
+ "https://github.com/cayennes/solarized-parentheses-lighttable-theme",
+ :desc
+ "A theme with solarized rainbow parentheses; requires Rainbow plugin and reads best in a font with both bolder and lighter variants such as Adobe's free Source Code Pro.  Currently light only.",
+ :behaviors "solarized_parentheses.behavior"}

@@ -1,0 +1,7 @@
+{:name "Julia",
+ :author "Mike Innes",
+ :version "0.8.0",
+ :source "https://github.com/one-more-minute/Julia-LT",
+ :desc "Julia Language plugin",
+ :dependencies {},
+ :behaviors "julia.behaviors"}

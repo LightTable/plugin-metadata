@@ -1,0 +1,6 @@
+{:name "gestalt",
+ :version "0.0.1",
+ :author "Ethan Sherbondy",
+ :source "https://github.com/sherbondy/glslt",
+ :desc "OpenGL Shader Language (GLSL) plugin for Light Table",
+ :behaviors "gestalt.behaviors"}

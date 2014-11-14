@@ -1,0 +1,7 @@
+{:name "gitbeam",
+ :version "0.2.0",
+ :author "Gabriel Horner",
+ :source "https://github.com/cldwalker/gitbeam",
+ :desc
+ "Seamless github interaction - browse a url locally or a local file remotely",
+ :behaviors "gitbeam.behaviors"}

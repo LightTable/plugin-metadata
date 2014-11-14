@@ -1,0 +1,7 @@
+{:name "Zenburn theme",
+ :version "0.0.1",
+ :author "Alexander Zubko",
+ :source "https://github.com/wisenomad/zenburn-lighttable-theme",
+ :desc
+ "Theme based on Zenburn theme for Emacs. After installing it, restart LT, then add (:lt.objs.style/set-theme \"zenburn\") to user.behaviors under :editor",
+ :behaviors "zenburn_theme.behaviors"}

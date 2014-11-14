@@ -1,0 +1,7 @@
+{:name "Juno",
+ :author "Mike Innes",
+ :version "0.7.1",
+ :source "https://github.com/one-more-minute/Juno-LT",
+ :desc "Turn Light Table into a Julia IDE",
+ :dependencies {:Julia "0.7.1", :June "0.2.0", :Reminisce "0.3.1"},
+ :behaviors "jupiter.behaviors"}

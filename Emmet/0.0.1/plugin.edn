@@ -1,0 +1,6 @@
+{:name "Emmet",
+ :version "0.0.1",
+ :author "Kodowa",
+ :source "https://github.com/LightTable/Emmet",
+ :desc "http://emmet.io/ integration for Light Table",
+ :behaviors "emmet.behaviors"}

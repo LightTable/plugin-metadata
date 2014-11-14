@@ -1,0 +1,7 @@
+{:name "Perl",
+ :author "utsukushii",
+ :version "0.0.3",
+ :source "https://github.com/utsukushii/LT-Perl",
+ :desc "Perl language plugin for Light Table",
+ :dependencies {},
+ :behaviors "perl.behaviors"}

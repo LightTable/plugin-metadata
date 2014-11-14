@@ -1,0 +1,6 @@
+{:name "Subpar",
+ :version "0.0.1",
+ :author "Navgeet Agrawal",
+ :source "https://github.com/Navgeet/subpar",
+ :desc "A more feature complete paredit",
+ :behaviors "subpar.behaviors"}

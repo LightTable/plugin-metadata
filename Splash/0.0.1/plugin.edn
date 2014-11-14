@@ -1,0 +1,7 @@
+{:name "Splash",
+ :author "uochan",
+ :version "0.0.1",
+ :source "https://github.com/liquidz/lt-splash",
+ :desc
+ "Plugin for showing splash screen instread of LT's welcome screen",
+ :behaviors "splash.behaviors"}

@@ -1,0 +1,8 @@
+{:name "ClojureBridge",
+ :version "0.1.1",
+ :author "Clinton Dreisbach",
+ :source "https://github.com/clojurebridge/lt-clojurebridge",
+ :desc
+ "A nice default setup for LightTable, used in the ClojureBridge curriculum.",
+ :behaviors "clojurebridge.behaviors",
+ :dependencies {:Keymapper "0.0.4", :base16 themes "0.1.0"}}

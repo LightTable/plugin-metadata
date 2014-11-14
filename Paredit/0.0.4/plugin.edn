@@ -1,0 +1,6 @@
+{:name "Paredit",
+ :version "0.0.4",
+ :author "Kodowa",
+ :source "https://github.com/LightTable/Paredit",
+ :desc "Paredit integration for Light Table",
+ :behaviors "paredit.behaviors"}

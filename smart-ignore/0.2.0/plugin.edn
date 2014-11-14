@@ -1,0 +1,7 @@
+{:name "smart-ignore",
+ :version "0.2.0",
+ :author "Gabriel Horner",
+ :source "https://github.com/cldwalker/smart-ignore",
+ :desc
+ "Updates file.ignore-pattern based on current directories and their gitignores.",
+ :behaviors "smart_ignore.behaviors"}

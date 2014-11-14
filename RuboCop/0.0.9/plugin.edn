@@ -1,0 +1,6 @@
+{:name "RuboCop",
+ :version "0.0.9",
+ :author "Sean Caffery",
+ :source "https://github.com/seancaffery/lt-rubocop",
+ :desc "RuboCop integration, a ruby syntax and style checker",
+ :behaviors "rubocop.behaviors"}

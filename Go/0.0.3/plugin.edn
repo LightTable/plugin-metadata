@@ -1,0 +1,7 @@
+{:name "Go",
+ :author "toqueteos",
+ :version "0.0.3",
+ :source "https://github.com/toqueteos/LightTable-Go",
+ :desc "Go language plugin for Light Table",
+ :dependencies {},
+ :behaviors "go.behaviors"}

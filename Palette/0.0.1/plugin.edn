@@ -1,0 +1,6 @@
+{:name "Palette",
+ :version "0.0.1",
+ :author "Irakli Gozalishvili",
+ :source "https://github.com/Gozala/lt.plugins.palette",
+ :desc "Light Table plugin for visualizing CSS color values",
+ :behaviors "palette.behaviors"}

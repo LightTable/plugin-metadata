@@ -1,0 +1,7 @@
+{:name "Rainbow",
+ :author "Chris Granger",
+ :version "0.0.6",
+ :source "https://github.com/LightTable/LightTable-Rainbow",
+ :desc "Rainbow parens implementation for Light Table",
+ :dependencies {:JSHint "0.0.1"},
+ :behaviors "rainbow.behaviors"}

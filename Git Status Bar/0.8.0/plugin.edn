@@ -1,0 +1,7 @@
+{:name "Git Status Bar",
+ :author "Zachary Kim",
+ :version "0.8.0",
+ :source "https://github.com/zk/lt-gitstatusbar",
+ :desc
+ "Puts the current editor's git branch and changes status in LT's status bar.",
+ :behaviors "gitstatusbar.behaviors"}

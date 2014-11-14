@@ -1,0 +1,6 @@
+{:name "Piel Css",
+ :version "0.0.1",
+ :author "Joaquin Oltra",
+ :source "https://github.com/joakin/lighttable-piel-css",
+ :desc "Css changes to the default LightTable skin",
+ :behaviors "piel-css.behaviors"}

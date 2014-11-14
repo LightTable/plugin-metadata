@@ -1,0 +1,7 @@
+{:name "watches-watcher",
+ :version "0.0.3",
+ :author "Beau Fabry",
+ :source "https://github.com/bfabry/lt-watches-watcher",
+ :desc
+ "Panel that displays all of your current Light Table watches in one place",
+ :behaviors "watches_watcher.behaviors"}

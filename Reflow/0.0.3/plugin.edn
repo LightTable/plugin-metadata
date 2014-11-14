@@ -1,0 +1,7 @@
+{:name "Reflow",
+ :author "Robert Schroll",
+ :version "0.0.3",
+ :source "https://github.com/rschroll/reflow",
+ :desc "Reflow paragraphs to a fixed width",
+ :dependencies {},
+ :behaviors "reflow.behaviors"}

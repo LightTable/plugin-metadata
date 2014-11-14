@@ -1,0 +1,7 @@
+{:name "gitlight",
+ :version "0.0.5",
+ :author "Bartosz Kurpesa, Konrad Kuźnicki, Marek Rogalski",
+ :source "https://github.com/kuznicki-me/gitlight",
+ :desc
+ "GIT integration: simple status, add, commit, push, pull, fetch, diff and branch management.",
+ :behaviors "gitlight.behaviors"}

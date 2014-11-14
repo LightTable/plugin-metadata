@@ -1,0 +1,7 @@
+{:name "Vim-Focus",
+ :author "Matt Mower",
+ :version "1.0.0",
+ :source "https://github.com/mmower/vim-focus",
+ :desc
+ "When LightTable loses focus revert the current editor to Normal mode",
+ :behaviors "vim_focus.behaviors"}

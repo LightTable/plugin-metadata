@@ -1,0 +1,7 @@
+{:name "base16 themes",
+ :version "0.1.0",
+ :author "Clinton Dreisbach",
+ :source "https://github.com/cndreisbach/lighttable-base16-themes",
+ :desc
+ "Base16 themes (https://github.com/chriskempson/base16) for LightTable.",
+ :behaviors "base16.behaviors"}

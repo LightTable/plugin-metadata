@@ -1,0 +1,6 @@
+{:name "gibo",
+ :version "0.1.1",
+ :author "ndr-qef",
+ :source "http://github.com/ndr-qef/light-gibo",
+ :desc "Manage gitignore boilerplates from Light Table.",
+ :behaviors "gibo.behaviors"}

@@ -1,0 +1,6 @@
+{:name "Neon theme",
+ :version "0.0.1",
+ :author "Alexander Sanchez",
+ :source "http://github.com/ZehCnaS34/neon-lt",
+ :desc "a theme.. and skin bundle.",
+ :behaviors "neon_lt.behaviors"}

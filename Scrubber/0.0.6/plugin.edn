@@ -1,0 +1,7 @@
+{:name "Scrubber",
+ :version "0.0.6",
+ :author "Patrick Rodriguez (@stratospark)",
+ :source "https://github.com/stratospark/lt-scrubber",
+ :desc
+ "Scrub values with your mouse or keyboard to rapidly visualize your code's output",
+ :behaviors "lt_scrubber.behaviors"}

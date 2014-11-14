@@ -1,0 +1,7 @@
+{:name "Nimrod",
+ :author "Zahary Karadjov",
+ :version "0.0.1",
+ :source "https://github.com/zah/nimrod.lt",
+ :desc "Nimrod language plugin for Light Table",
+ :dependencies {},
+ :behaviors "nimrod.behaviors"}

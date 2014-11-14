@@ -1,0 +1,6 @@
+{:name "ShifTab",
+ :version "0.0.1",
+ :author "Edward Stone",
+ :source "https://github.com/edwastone/Shiftab",
+ :desc "Shift-Tab fixing for Light Table",
+ :behaviors "shiftab.behaviors"}

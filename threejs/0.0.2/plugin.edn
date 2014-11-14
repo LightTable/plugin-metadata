@@ -1,0 +1,6 @@
+{:name "threejs",
+ :version "0.0.2",
+ :author "jadmz",
+ :source "https://github.com/jadmz/threejs-lt-plugin",
+ :desc "Use Three.js inside of LightTable",
+ :behaviors "threejs.behaviors"}

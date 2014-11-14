@@ -1,0 +1,6 @@
+{:name "lt-tmux",
+ :author "MarcoPolo",
+ :source "https://github.com/marcopolo/lt-tmux",
+ :desc "Send arbitrary code to a tmux session",
+ :version "0.0.1",
+ :behaviors "lt_tmux.behaviors"}

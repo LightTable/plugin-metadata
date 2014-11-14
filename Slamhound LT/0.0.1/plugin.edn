@@ -1,0 +1,8 @@
+{:name "Slamhound LT",
+ :author "chadhq",
+ :version "0.0.1",
+ :source "https://github.com/LightTable/Vim",
+ :desc
+ "Adds Slamhound goodness to LightTable. Basically, its the IntelliJ 'Optimize Imports' and 'Auto Import' (Except, you still need to explicitly run it, so perhaps not truly 'auto')",
+ :dependencies {},
+ :behaviors "vim.behaviors"}

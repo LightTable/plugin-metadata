@@ -1,0 +1,7 @@
+{:name "Clike",
+ :author "Jason",
+ :version "0.0.2",
+ :source "https://github.com/wilsonjm/LightTable/Clike",
+ :desc "C-like language plugin for Light Table",
+ :dependancies {},
+ :behaviors "csharp.behaviors"}

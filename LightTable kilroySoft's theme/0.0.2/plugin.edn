@@ -1,0 +1,7 @@
+{:name "LightTable kilroySoft's theme",
+ :version "0.0.2",
+ :author "Ivan Pierre, <ivan@kilroysoft.ch>",
+ :source "https://github.com/ivanpierre/lt-theme-kilroysoft",
+ :desc
+ "KilroySoft's theme with a dark background and rainbow brackets.\n        Install plugin, then restart LightTable,\n        then add (:lt.objs.style/set-theme \"kilroysoft\") to user.behaviors under :editor",
+ :behaviors "lt_theme_kilroysoft.behaviors"}

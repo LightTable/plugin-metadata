@@ -1,0 +1,7 @@
+{:name "TernJS",
+ :version "0.1.1",
+ :author "Eric Pritchett",
+ :source "https://github.com/mortalapeman/LT-TernJS",
+ :desc
+ "Provides intelligent auto-complete, inline docs and jump to definition for JavaScript files in Light Table.",
+ :behaviors "ternjs.behaviors"}

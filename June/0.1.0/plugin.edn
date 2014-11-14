@@ -1,0 +1,7 @@
+{:name "June",
+ :author "Mike Innes",
+ :version "0.1.0",
+ :source "https://github.com/one-more-minute/June-LT",
+ :desc "The June Themes",
+ :dependencies {},
+ :behaviors "june.behaviors"}

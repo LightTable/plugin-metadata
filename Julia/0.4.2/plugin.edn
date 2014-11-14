@@ -1,0 +1,7 @@
+{:name "Jewel",
+ :author "Mike Innes",
+ :version "0.4.2",
+ :source "https://github.com/one-more-minute/Jewel-LT",
+ :desc "Julia language plugin for Light Table",
+ :dependencies {},
+ :behaviors "jewel.behaviors"}

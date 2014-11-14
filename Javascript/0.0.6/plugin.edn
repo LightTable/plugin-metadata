@@ -1,0 +1,7 @@
+{:name "Javascript",
+ :author "Kodowa",
+ :version "0.0.6",
+ :source "https://github.com/LightTable/Javascript",
+ :desc "Javascript language plugin for Light Table",
+ :dependencies {},
+ :behaviors "javascript.behaviors"}
