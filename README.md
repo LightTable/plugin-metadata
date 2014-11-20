@@ -15,4 +15,4 @@ in order to be installed.
 License
 =======
 
-See LICENSE[LICENSE]
+See [LICENSE](LICENSE)
