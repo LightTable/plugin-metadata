@@ -1,0 +1,6 @@
+{:name "JSBeautify"
+ :author "Lionel Zuber"
+ :version "0.0.2"
+ :source "https://github.com/Armaklan/lt-jsbeautify"
+ :desc "JsBeautify integration for Light Table"
+ :behaviors "jsbeautify.behaviors"}
