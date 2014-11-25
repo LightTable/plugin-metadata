@@ -1,0 +1,6 @@
+{"name": "Rust",
+ "version": "0.0.2",
+ "author": "Ignacio Corderi",
+ "source": "https://github.com/icorderi/light-rust",
+ "desc": "Rust language plugin for LightTable",
+ "behaviors": "rust.behaviors"}
