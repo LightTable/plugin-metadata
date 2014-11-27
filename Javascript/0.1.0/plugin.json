@@ -1,0 +1,10 @@
+{
+  "name": "Javascript",
+  "author": "Kodowa",
+  "version": "0.1.0",
+  "source": "https://github.com/LightTable/Javascript",
+  "desc": "Javascript language plugin for Light Table",
+  "dependencies": {
+  },
+  "behaviors": "javascript.behaviors"
+}
