@@ -1,0 +1,6 @@
+{:name "Emmet"
+ :author "Chris Granger"
+ :source "https://github.com/LightTable/Emmet"
+ :version "0.0.2"
+ :desc "http://emmet.io/ integration for Light Table"
+ :behaviors "emmet.behaviors"}
