@@ -1,0 +1,6 @@
+{:name "mermaid"
+ :version "0.1.0"
+ :author "Gabriel Horner"
+ :source "https://github.com/cldwalker/Mermaid"
+ :desc "Generate diagrams and flowcharts from text using mermaid js library."
+ :behaviors "mermaid.behaviors"}
