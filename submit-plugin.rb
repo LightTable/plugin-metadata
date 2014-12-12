@@ -5,8 +5,8 @@ require 'edn'
 require 'json'
 
 def process_args(argv)
-  unless argv.size == 2
-    $stderr.puts "#{$0} GITHUB_URL VERSION"
+  unless argv.size >= 2
+    $stderr.puts "#{$0} GITHUB_URL VERSION [--commit]"
     exit 1
   end
 
@@ -40,9 +40,15 @@ end
 def add_new_file(plugin_name, version, plugin_body, filename)
   system("mkdir -p #{plugin_name}/#{version}")
   File.open("#{plugin_name}/#{version}/#{filename}", 'w') { |f| f.write(plugin_body) }
+  "#{plugin_name}/#{version}/#{filename}"
 end
 
 github_url, version = process_args(ARGV)
 plugin_filename, plugin_body = get_plugin(github_url, version)
 plugin_name = extract_name(plugin_filename, plugin_body)
-add_new_file(plugin_name, version, plugin_body, plugin_filename)
+full_path = add_new_file(plugin_name, version, plugin_body, plugin_filename)
+
+if ARGV.include?('--commit')
+  system("git add #{full_path}")
+  system("git commit -m 'Add #{plugin_name} #{version}'")
+end
