@@ -1,0 +1,7 @@
+{:name "DarkSystemCD theme",
+ :version "0.0.2",
+ :author "BloodArt",
+ :source "https://github.com/wds-connections/darksystemcd-lighttable-theme",
+ :desc
+ "productivity quality in colors from the programming skills created for DarkSystemCD.",
+ :behaviors "darksystemcd-theme.behaviors"}
