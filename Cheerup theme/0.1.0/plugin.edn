@@ -1,8 +1,6 @@
-{:name "Cheerup theme",
- :version "0.1.0",
- :author "Rob Jentzema",
- :credit ["James Trunk" "Kristoffer Skjutare" "electrikmonk"],
- :source "https://github.com/clojens/cheerup-lighttable-theme",
- :desc
- "A theme inspired by Borealis and the 'cheer up emo kid' colorscheme. Add (:lt.objs.style/set-theme \"cheerup\") to user.behaviors under :editor",
- :behaviors "cheerup_lighttable_theme.behaviors"}
+{:name "Cheerup theme"
+ :version "0.1.0"
+ :author "Rob Jentzema"
+ :source "https://github.com/clojens/cheerup-lighttable-theme"
+ :desc "A colorful theme designed to make you briefly happier."
+ :behaviors "cheerup.behaviors"}
