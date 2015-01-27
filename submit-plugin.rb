@@ -38,7 +38,7 @@ def extract_name(filename, plugin_body)
 end
 
 def add_new_file(plugin_name, version, plugin_body, filename)
-  system("mkdir -p #{plugin_name}/#{version}")
+  system("mkdir", "-p", "#{plugin_name}/#{version}")
   File.open("#{plugin_name}/#{version}/#{filename}", 'w') { |f| f.write(plugin_body) }
   "#{plugin_name}/#{version}/#{filename}"
 end
@@ -49,6 +49,6 @@ plugin_name = extract_name(plugin_filename, plugin_body)
 full_path = add_new_file(plugin_name, version, plugin_body, plugin_filename)
 
 if ARGV.include?('--commit')
-  system("git add #{full_path}")
+  system("git", "add", full_path)
   system("git commit -m 'Add #{plugin_name} #{version}'")
 end
