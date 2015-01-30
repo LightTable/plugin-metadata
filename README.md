@@ -23,6 +23,8 @@ submission is authorized i.e. not clobbering an existing plugin - you still need
 manually. To use the script, make sure you are using ruby >= 2.0 and install the edn gem: `gem
 install edn`.
 
+To verify if all metadata files are at the correct path, run `script/verify-paths.rb`.
+
 License
 =======
 
