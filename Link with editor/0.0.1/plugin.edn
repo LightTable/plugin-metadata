@@ -1,0 +1,6 @@
+{:name "Link with editor"
+ :version "0.0.1"
+ :author "Olivier Barbeau <olivier.barbeau@gmail.com>"
+ :source "https://github.com/obarbeau/lt-link-with-editor"
+ :desc "Light Table plugin for linking the file currently edited with the workspace view."
+ :behaviors "link-with-editor.behaviors"}
