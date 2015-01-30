@@ -1,5 +1,8 @@
 #!/usr/bin/env ruby
 
+# Fetches a plugin's metadata .edn or .json given its github url and
+# a version tag. Pass --commit to also commit the new file.
+
 require 'open-uri'
 require 'edn'
 require 'json'

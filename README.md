@@ -17,8 +17,8 @@ In order for a plugin to have a new release, a plugin file must be added to this
 should be `PLUGIN_NAME/VERSION/plugin.edn` or `PLUGIN_NAME/VERSION/plugin.json` where VERSION is the
 new version number e.g. 0.1.2.
 
-There is a `submit-plugin.rb` script to create the plugin file given a github\_url and version e.g.
-`./submit-plugin.rb https://github.com/LightTable/Emmet 0.0.2`.  This script does _not_ verify the
+There is a `script/submit-plugin.rb` script to create the plugin file given a github\_url and version e.g.
+`script/submit-plugin.rb https://github.com/LightTable/Emmet 0.0.2`.  This script does _not_ verify the
 submission is authorized i.e. not clobbering an existing plugin - you still need to do that
 manually. To use the script, make sure you are using ruby >= 2.0 and install the edn gem: `gem
 install edn`.
