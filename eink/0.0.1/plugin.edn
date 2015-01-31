@@ -1,0 +1,6 @@
+{:name "eink"
+ :version "0.0.1"
+ :author "Aleš Roubíček"
+ :source "https://github.com/rarous/lt-eink-theme/"
+ :desc "Ligh Table e-ink theme"
+ :behaviors "lighttable_eink_theme.behaviors"}
