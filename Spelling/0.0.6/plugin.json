@@ -1,0 +1,9 @@
+{
+  "name": "Spelling",
+  "author": "Robert Schroll",
+  "version": "0.0.6",
+  "source": "https://github.com/rschroll/lt-spelling",
+  "desc": "Spell checking based on hunspell and Typo.js",
+  "dependencies": {},
+  "behaviors": "spelling.behaviors"
+}
