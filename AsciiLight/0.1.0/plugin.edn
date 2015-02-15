@@ -1,0 +1,6 @@
+{:name "AsciiLight"
+ :version "0.1.0"
+ :author "Magnus Rundberget"
+ :source "https://github.com/rundis/AsciiLight"
+ :desc "AsciiDoc preview for Light Table"
+ :behaviors "asciilight.behaviors"}
