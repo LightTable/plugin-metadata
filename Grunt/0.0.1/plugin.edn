@@ -1,0 +1,6 @@
+{:name "Grunt"
+ :author "Lionel Zuber"
+ :version "0.0.1"
+ :source "https://github.com/Armaklan/lt-grunt"
+ :desc "Grunt integration for Light Table"
+ :behaviors "grunt.behaviors"}
