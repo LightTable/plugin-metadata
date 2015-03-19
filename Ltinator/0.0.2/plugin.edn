@@ -1,0 +1,6 @@
+{:name "Ltinator"
+ :version "0.0.2"
+ :author "snufkon"
+ :source "https://github.com/snufkon/Ltinator"
+ :desc "Quickly switch your working environment"
+ :behaviors "ltinator.behaviors"}
