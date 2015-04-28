@@ -1,0 +1,9 @@
+{
+  :name "Juniper",
+  :author "Varanas",
+  :version "0.2.1",
+  :source "https://github.com/Varanas/Juniper",
+  :desc "Skin and theme (dark and light) - optimized for Julia.",
+  :dependencies {},
+  :behaviors "juniper.behaviors"
+}
