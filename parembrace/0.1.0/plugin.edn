@@ -1,0 +1,6 @@
+{:name "parembrace"
+ :version "0.1.0"
+ :author "Magnus Rundberget"
+ :source "https://github.com/rundis/parembrace"
+ :desc "Embrace those parens - Paredit powered by rewrite-cljs"
+ :behaviors "parembrace.behaviors"}
