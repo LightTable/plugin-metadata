@@ -1,0 +1,6 @@
+{:name "CoffeeScriptSyntax"
+ :version "0.0.1"
+ :author "huaoguo"
+ :source "https://github.com/huaoguo/lt-coffee-script-syntax"
+ :desc "Better CoffeeScript syntax"
+ :behaviors "coffee_script.behaviors"}
