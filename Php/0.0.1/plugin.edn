@@ -1,0 +1,6 @@
+{:name "Php"
+ :version "0.0.1"
+ :author "Thierry Marianne"
+ :source "https://github.com/thierrymarianne/LightTable-PHP"
+ :desc "PHP Langage plugin for Light Table"
+ :behaviors "php.behaviors"}
