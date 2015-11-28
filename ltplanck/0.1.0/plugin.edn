@@ -1,0 +1,6 @@
+{:name "ltplanck"
+ :version "0.1.0"
+ :author "Magnus Rundberget"
+ :source "https://github.com/rundis/ltplanck"
+ :desc "Planck ClojureScript plugin for Light Table"
+ :behaviors "ltplanck.behaviors"}
