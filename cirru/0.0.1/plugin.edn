@@ -1,0 +1,6 @@
+{:name "cirru"
+ :version "0.0.1"
+ :author "jiyinyiyong"
+ :source "http://github.com/Cirru/lt-cirru"
+ :desc "Cirru syntax highlighting"
+ :behaviors "cirru.behaviors"}
