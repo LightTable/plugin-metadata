@@ -1,7 +1,7 @@
 {:name "Typed Clojure",
  :version "0.1.0",
  :author "ndr-qef",
- :source "https://github.com/ndr-qef/light-typedclojure",
+ :source "https://github.com/typedclojure/light-typedclojure",
  :desc
  "Typed Clojure integration: type-checking commands and annotation formatters.",
  :behaviors "typedclojure.behaviors"}
