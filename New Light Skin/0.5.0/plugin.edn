@@ -1,0 +1,6 @@
+{:name "New Light Skin"
+ :version "0.5.0"
+ :author "Andras Suller"
+ :source "https://github.com/sullerandras/new-light-lighttable-skin"
+ :desc "Light background skin based on the inverted new-dark skin."
+ :behaviors "new-light-skin.behaviors"}
