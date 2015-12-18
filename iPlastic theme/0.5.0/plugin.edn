@@ -1,0 +1,6 @@
+{:name "iPlastic theme"
+ :version "0.5.0"
+ :author "Andras Suller"
+ :source "https://github.com/sullerandras/iplastic-lighttable-theme"
+ :desc "Light background theme based on Sublime's iPlastic color scheme."
+ :behaviors "iplastic-theme.behaviors"}
