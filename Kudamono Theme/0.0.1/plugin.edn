@@ -1,0 +1,6 @@
+{:name "Kudamono Theme"
+ :version "0.0.1"
+ :author "Zach Stone"
+ :source "https://github.com/zachstone/kudamono-lighttable-theme"
+ :desc "A very colorful theme designed for Clojure."
+ :behaviors "kudamono.behaviors"}
