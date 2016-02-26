@@ -1,0 +1,6 @@
+{:name "Parinfer"
+ :version "0.0.2"
+ :author "Maurício Szabo"
+ :source "https://github.com/mauricioszabo/lt_parinfer"
+ :desc "parinfer port for LigtTable"
+ :behaviors "lt-parinfer.behaviors"}
