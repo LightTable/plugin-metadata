@@ -1,0 +1,8 @@
+{:desc "Provides lighttable terminal via butterfly",
+ :version "0.0.1",
+ :source "https://github.com/alun/terminal",
+ :behaviors "terminal.behaviors",
+ ;; Do not edit - :dependencies are auto-generated
+:dependencies { },
+ :author "Aleksey Lunacharsky",
+ :name "Terminal"}
