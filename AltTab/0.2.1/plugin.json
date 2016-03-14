@@ -1,0 +1,8 @@
+{
+  "name": "AltTab",
+  "version": "0.2.1",
+  "author": "Eldar Gabdullin",
+  "source": "https://github.com/eldargab/LT-AltTab",
+  "desc": "Provides windows like Alt+Tab experience for navigation between tabs",
+  "behaviors": "alttab.behaviors"
+}
