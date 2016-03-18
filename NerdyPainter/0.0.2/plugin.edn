@@ -1,0 +1,6 @@
+{:name "NerdyPainter"
+ :version "0.0.2"
+ :author "Camilo Roca"
+ :source "https://github.com/carocad/nerdy-painter"
+ :desc "allow inline-image displaying in Clojure's plugin"
+ :behaviors "nerdy-painter.behaviors"}
