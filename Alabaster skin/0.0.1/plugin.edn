@@ -1,0 +1,6 @@
+{ :name      "Alabaster skin"
+  :version   "0.0.1"
+  :author    "Nikita Prokopov"
+  :source    "https://github.com/tonsky/alabaster-lighttable-skin"
+  :desc      "Light skin & color theme"
+  :behaviors "alabaster.behaviors" }
