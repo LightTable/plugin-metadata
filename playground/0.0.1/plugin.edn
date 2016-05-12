@@ -1,0 +1,6 @@
+{:name "playground"
+ :version "0.0.1"
+ :author "Camilo Roca"
+ :source "https://github.com/carocad/playground"
+ :desc "Learn how to hack Lighttable by hacking it"
+ :behaviors "playground.behaviors"}
