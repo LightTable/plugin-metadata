@@ -1,0 +1,6 @@
+{:name "google-search"
+ :version "1.0.1"
+ :author "cnb"
+ :source "https://github.com/cneira/googlesearch"
+ :desc "makes available google, github,amazon and stackoverflow web search "
+ :behaviors "googlesearch.behaviors"}
