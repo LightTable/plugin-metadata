@@ -1,0 +1,8 @@
+{:name "lt-clojure-linter"
+ :version "0.0.2"
+ :author "Brendan Bates"
+ :source "https://github.com/bbbates/lt-clojure-linter"
+ :desc "Linter for Clojure(script), powered by Kibit."
+ :behaviors "lt_clojure_linter.behaviors"
+ :dependencies {"Linting" "0.0.3"}
+ }
