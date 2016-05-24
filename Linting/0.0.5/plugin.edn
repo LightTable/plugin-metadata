@@ -1,0 +1,6 @@
+{:name "Linting"
+ :version "0.0.5"
+ :author "Brendan Bates"
+ :source "https://github.com/bbbates/lt-lint"
+ :desc "Base plugin for enabling editor linter addons for LightTable"
+ :behaviors "lt_lint.behaviors"}
