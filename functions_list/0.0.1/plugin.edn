@@ -1,0 +1,6 @@
+{:name "functions_list"
+ :version "0.0.1"
+ :author "Edgard Collante"
+ :source "https://github.com/eecollante10/LightTable-functions-list"
+ :desc "Shows javascript functions on the right panel. Click on a function to go to it. To access it search for funtion in the commands (ctrl-space)"
+ :behaviors "functions_list.behaviors"}
