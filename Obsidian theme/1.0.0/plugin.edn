@@ -1,0 +1,6 @@
+{:name "Obsidian theme"
+ :version "1.0.0"
+ :author "Pablo Ariel Mayobre"
+ :source "https://github.com/Positive07/obsidian-theme-lighttable"
+ :desc "Dark theme based on Notepad++ Obsidian theme, with some tweaks to look nicer!"
+ :behaviors "obsidian.behaviors"}
